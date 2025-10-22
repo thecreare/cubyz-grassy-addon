@@ -4,9 +4,9 @@ Adds grass crafting recipes to Cubyz! I made this to learn addon creation (and a
 
 <img src="./repo/icon.png" width="100" />
 
-Combine either mud or soil with any vegetation to produce its corresponding block.
+Combine each ground and vegetation variant to produce its corresponding grass block.
 
-![All new grass crafting recipes shown in cubyz](./repo/recipe.png)
+<img src="./repo/recipe.png" width="300" alt="All new grass crafting recipes shown in cubyz"/>
 
 ## Installation
 
